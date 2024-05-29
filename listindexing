@@ -1,0 +1,4 @@
+fruits=["apple","orange","grapes"]
+print(fruits[1])
+#negative indexing 
+print(fruits[-1])

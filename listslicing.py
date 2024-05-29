@@ -1,0 +1,10 @@
+#1.
+mylist=["a","b","c","d","e"]
+mylist1=mylist[2:]
+print(mylist1)
+#2.
+mylist2=mylist[:3]
+print(mylist2)
+#3.
+mylist3=mylist[::2]
+print(mylist3)
